@@ -1,5 +1,5 @@
 # lottery.aleo
-
+Discord: AleksandrEVO
 ## Run Guide
 
 To run this program, run:
